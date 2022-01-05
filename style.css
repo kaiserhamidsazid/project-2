@@ -1,0 +1,113 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto Slab', serif;
+}
+.div1 a{
+    text-decoration:none;
+    color:black;
+}
+.div1 p{
+    margin-left:20px;
+    font-size:20px;
+    
+}
+.div1{
+    display:flex;
+    margin-left:50%;
+    font-weight:bold;
+}
+.section_1{
+    display:flex;
+}
+.section_2{
+    background-image: url(boy.jpg);
+    width:100%;
+    height:650px;
+    color:white;
+    background-repeat: no-repeat;
+}
+.div2{
+    padding-top:100px;
+    margin-left:100px;
+}
+.heading2{
+    font-size:40px;
+}
+.p1{
+    width:50%;
+    margin-left:100px;
+    font-weight:bold;
+    color:orange;
+}
+.div3{
+    display:flex;
+}
+.p2{
+    margin-left:100px;
+}
+.p3{
+    margin-left:50px;
+}
+
+.btn a{
+    text-decoration: none;
+    background-image: linear-gradient(cyan,blue);
+    padding:10px 40px;
+    border-radius: 10px;
+    color:white;
+}
+.section_3{
+    display:flex;
+    
+   
+}
+.div4{
+    margin-left:3%;
+    padding:20px;
+    box-shadow:15px 15px 35px grey;
+    background-color:cyan;
+    text-align:justify;
+}
+.div5{
+    margin-left:3%;
+    background-color:cyan;
+    padding:20px;
+    box-shadow:15px 15px 35px grey;
+    text-align:justify;
+}
+.div6{
+    margin-left:2%;
+    padding:20px;
+    box-shadow:15px 15px 35px grey;
+    margin-right:3%;
+    background-color:cyan;
+    text-align:justify;
+}
+.btn2 a{
+    background-color:slategrey;
+    text-decoration: none;
+    padding:10px 15px;
+    border-radius: 10px;
+    color:white;
+    
+}
+.btn2{
+    text-align:center;
+    margin-top:5px;
+    font-weight:bold;
+}
+footer{
+    background:darkblue;
+    height:100px;
+    width:1350px;
+}
+footer .copyright{
+    text-align:center;
+    color:White;
+    font-weight:bold;
+    
+}
+.copyright{
+    
+    
+}
